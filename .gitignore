@@ -1,0 +1,5 @@
+@eaDir/
+#recycle/
+.DS_Store
+SYNOINDEX*
+Thumbs.db
